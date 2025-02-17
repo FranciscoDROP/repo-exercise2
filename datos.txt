@@ -1,0 +1,6 @@
+casa
+  perro
+  gato
+  lagarto
+  iguana
+  
